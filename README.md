@@ -1,6 +1,6 @@
 <div align = "center" id="badges">
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width = 500 height = 500>
-  <img src="https://static.tildacdn.com/tild3265-3339-4763-a432-653963306263/5cab03cdd636b72c9e61.gif" width = 400 height = 500/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width = 400 height = 400>
+  <img src="https://static.tildacdn.com/tild3265-3339-4763-a432-653963306263/5cab03cdd636b72c9e61.gif" width = 300 height = 400/>
 </div>
 <h2>Описание</h2>
 <p>Этот бот создан для упрощения процесса регистрации и учёта участников внутренних мероприятий ВУЗа.</p>
