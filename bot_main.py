@@ -4,9 +4,8 @@ from database import base_promt
 from telebot.types import InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardMarkup
 #в base_promt вписываем запрос к базе данных
 #через event создаём файл участников мероприятия
-#✔️☑️✔️ ✔❌☑♻️
-#[(2), (4)]
-bot = telebot.TeleBot('7298044831:AAECifoYmOHbUd322v2S1hjsLVIisB6rsWM')
+
+bot = telebot.TeleBot('***token***')
 
 page = 1
 count = int()
